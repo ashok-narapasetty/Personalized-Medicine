@@ -1,5 +1,5 @@
 # Personalized Medicine: Redefining Cancer Treatment
-Using tf-idf score and the sentiment polarities of the text data to classify a genetic mutations.
+Using tf-idf score and the sentiment polarities of the text data to classify the genetic mutations.
 
 
 ## 1. Personalized Medicine Redefining Cancer Treatment.ipynb
